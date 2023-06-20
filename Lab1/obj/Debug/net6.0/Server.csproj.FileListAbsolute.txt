@@ -1,0 +1,30 @@
+D:\Docs\UTM Folder\Anul 3\PR\Lab1\Lab1\bin\Debug\net6.0\Server.exe
+D:\Docs\UTM Folder\Anul 3\PR\Lab1\Lab1\bin\Debug\net6.0\Server.deps.json
+D:\Docs\UTM Folder\Anul 3\PR\Lab1\Lab1\bin\Debug\net6.0\Server.runtimeconfig.json
+D:\Docs\UTM Folder\Anul 3\PR\Lab1\Lab1\bin\Debug\net6.0\Server.dll
+D:\Docs\UTM Folder\Anul 3\PR\Lab1\Lab1\bin\Debug\net6.0\Server.pdb
+D:\Docs\UTM Folder\Anul 3\PR\Lab1\Lab1\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+D:\Docs\UTM Folder\Anul 3\PR\Lab1\Lab1\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\UTM Folder\Anul 3\PR\Lab1\Lab1\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+D:\Docs\UTM Folder\Anul 3\PR\Lab1\Lab1\obj\Debug\net6.0\Server.AssemblyInfo.cs
+D:\Docs\UTM Folder\Anul 3\PR\Lab1\Lab1\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+D:\Docs\UTM Folder\Anul 3\PR\Lab1\Lab1\obj\Debug\net6.0\Server.dll
+D:\Docs\UTM Folder\Anul 3\PR\Lab1\Lab1\obj\Debug\net6.0\refint\Server.dll
+D:\Docs\UTM Folder\Anul 3\PR\Lab1\Lab1\obj\Debug\net6.0\Server.pdb
+D:\Docs\UTM Folder\Anul 3\PR\Lab1\Lab1\obj\Debug\net6.0\Server.genruntimeconfig.cache
+D:\Docs\UTM Folder\Anul 3\PR\Lab1\Lab1\obj\Debug\net6.0\ref\Server.dll
+C:\Users\User\Desktop\PR\PR_LB1\Lab1\bin\Debug\net6.0\Server.exe
+C:\Users\User\Desktop\PR\PR_LB1\Lab1\bin\Debug\net6.0\Server.deps.json
+C:\Users\User\Desktop\PR\PR_LB1\Lab1\bin\Debug\net6.0\Server.runtimeconfig.json
+C:\Users\User\Desktop\PR\PR_LB1\Lab1\bin\Debug\net6.0\Server.dll
+C:\Users\User\Desktop\PR\PR_LB1\Lab1\bin\Debug\net6.0\Server.pdb
+C:\Users\User\Desktop\PR\PR_LB1\Lab1\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PR\PR_LB1\Lab1\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PR\PR_LB1\Lab1\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PR\PR_LB1\Lab1\obj\Debug\net6.0\Server.AssemblyInfo.cs
+C:\Users\User\Desktop\PR\PR_LB1\Lab1\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PR\PR_LB1\Lab1\obj\Debug\net6.0\Server.dll
+C:\Users\User\Desktop\PR\PR_LB1\Lab1\obj\Debug\net6.0\refint\Server.dll
+C:\Users\User\Desktop\PR\PR_LB1\Lab1\obj\Debug\net6.0\Server.pdb
+C:\Users\User\Desktop\PR\PR_LB1\Lab1\obj\Debug\net6.0\Server.genruntimeconfig.cache
+C:\Users\User\Desktop\PR\PR_LB1\Lab1\obj\Debug\net6.0\ref\Server.dll

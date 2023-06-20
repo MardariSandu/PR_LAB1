@@ -1,0 +1,15 @@
+D:\Docs\UTM Folder\Anul 3\PR\Lab1\Client\bin\Debug\net6.0\Client.exe
+D:\Docs\UTM Folder\Anul 3\PR\Lab1\Client\bin\Debug\net6.0\Client.deps.json
+D:\Docs\UTM Folder\Anul 3\PR\Lab1\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+D:\Docs\UTM Folder\Anul 3\PR\Lab1\Client\bin\Debug\net6.0\Client.dll
+D:\Docs\UTM Folder\Anul 3\PR\Lab1\Client\bin\Debug\net6.0\Client.pdb
+D:\Docs\UTM Folder\Anul 3\PR\Lab1\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+D:\Docs\UTM Folder\Anul 3\PR\Lab1\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\UTM Folder\Anul 3\PR\Lab1\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+D:\Docs\UTM Folder\Anul 3\PR\Lab1\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+D:\Docs\UTM Folder\Anul 3\PR\Lab1\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+D:\Docs\UTM Folder\Anul 3\PR\Lab1\Client\obj\Debug\net6.0\Client.dll
+D:\Docs\UTM Folder\Anul 3\PR\Lab1\Client\obj\Debug\net6.0\refint\Client.dll
+D:\Docs\UTM Folder\Anul 3\PR\Lab1\Client\obj\Debug\net6.0\Client.pdb
+D:\Docs\UTM Folder\Anul 3\PR\Lab1\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
+D:\Docs\UTM Folder\Anul 3\PR\Lab1\Client\obj\Debug\net6.0\ref\Client.dll
